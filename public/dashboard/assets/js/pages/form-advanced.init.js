@@ -1,0 +1,1 @@
+!function(t){"use strict";function a(){}a.prototype.init=function(){t(".select2").select2(),t(".select2-limiting").select2({maximumSelectionLength:2})},t.AdvancedForm=new a,t.AdvancedForm.Constructor=a}(window.jQuery),function(){"use strict";window.jQuery.AdvancedForm.init()}();
